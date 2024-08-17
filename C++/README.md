@@ -1,6 +1,6 @@
 # C++ Programming Exercises
 
-This repository contains various C++ programming exercises organized into two main folders: `basic-exercises` and `exercises`. These exercises are designed to help you practice and improve your C++ programming skills.
+This repository contains various C++ programming exercises organized into two main folders: `basic-exercises` and `exercises`. 
 
 ## Folders
 
