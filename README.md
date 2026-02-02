@@ -1,4 +1,4 @@
-# C-Cpp-Practice
+# C-Cpp-Learning
 
 Welcome to my C and C++ practice repository! This repo contains my experiments and exercises as I learn and improve my skills in C and C++ programming.
 
